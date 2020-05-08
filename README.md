@@ -1,4 +1,4 @@
-# ArcticToolsetICESat
+# Probabilistic-Relaxation-for-ICESat
 This repository provides the source codes of Probabilistic Relaxation method for improving ICESat/GLAS data.
 
 The zipped file contains the source codes and the example data for the algorithm.
